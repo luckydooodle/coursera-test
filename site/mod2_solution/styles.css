@@ -6,7 +6,8 @@ h1 {
   margin-bottom: 15px;
 }
 h2 {
-    padding: 5px 30px 5px 30px;
+    width: 33%;
+    text-align: center;
     float: right;
     border: 1px solid black;
     margin-top: 0px;
@@ -26,6 +27,7 @@ p {
     background-color: #A52A2A;
 }
 .beef{
+    color:white;
     background-color: #DEB887;
 }
 .sushi{
